@@ -18,11 +18,12 @@
             <input type="text" id="fullname" name="fullname"> <br>
             <label for="reasonforcontact" > Reason For Contact:</label> <br>
         <textarea id="reasonforcontact" name="reasonforcontact" rows="3"></textarea>
-        <p>Are you cool?:</p>
-        <input type="radio" id="cool" name="cool" value="person is cool">
-        <label for="cool">Yes</lable>
-        <input type="radio" id="notcool" name="notcool" value="person is not cool">
-        <label for="notcool">No</label> <br>
+        <label>Are You Cool?</label>
+        <!--all values must be in select-->
+        <select id="areyou" name="areyou">
+        <option value="Yes i am cool"> Yes i am cool </option>
+        <option value="No i am not cool">No i am not cool</option>
+        </select>
         <br>
         <input type="Submit" value="Send Form">
         
