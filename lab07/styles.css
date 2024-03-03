@@ -3,3 +3,8 @@ body {color: #3C3633;}
 h1{color: #4F473E;}
 h2 {color: #4F473E;}
 a{color: #FFC0D9}
+nav {background-color:#B0A695;}
+nav a {color: #b569f7;}
+nav a:hover {background-color: #F1EAFF;}
+nav {padding: 10px;
+    margin-bottom: 30px;}
