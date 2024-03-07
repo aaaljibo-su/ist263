@@ -8,7 +8,7 @@ nav a {color: #b569f7;}
 nav a:hover {background-color: #F1EAFF;}
 nav {padding: 10px; margin-bottom: 30px;}
 .motto{float: right;}
-header {background-color: #bdbde2;border-radius: 1em; display: flex; margin: 20px; margin-bottom: 30px;}
+.white {background-color: #bdbde2;border-radius: 1em; display: flex; margin: 20px; margin-bottom: 30px;}
 section {background-color: #bdbde2; border-radius: 1em; display: flex; padding: 20px;margin: 20px;}
 .form {flex: 2;margin-right: 25px;}
 .map {order: 2;}
