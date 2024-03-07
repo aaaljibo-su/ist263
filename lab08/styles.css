@@ -1,0 +1,17 @@
+body {background-color: #F3EEEA;}
+body {color: #3C3633;}
+h1{color: #4F473E;}
+h2 {color: #4F473E;}
+a{color: #FFC0D9}
+nav {background-color:#B0A695;border-radius: 1em;}
+nav a {color: #b569f7;}
+nav a:hover {background-color: #F1EAFF;}
+nav {padding: 10px; margin-bottom: 30px;}
+.motto{float: right;}
+header {background-color: #bdbde2;border-radius: 1em; display: flex; margin: 20px; margin-bottom: 30px;}
+section {background-color: #bdbde2; border-radius: 1em; display: flex; padding: 20px;margin: 20px;}
+.form {flex: 2;margin-right: 25px;}
+.map {order: 2;}
+.row1 {flex: 1;}
+.row2 {flex: 2; padding: 15px;}
+
