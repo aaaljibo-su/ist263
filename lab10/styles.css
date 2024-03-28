@@ -1,0 +1,30 @@
+body {background-color: #F3EEEA;}
+body {color: #3C3633;}
+h1{color: #4F473E;}
+h2 {color: #4F473E;}
+a{color: #FFC0D9}
+nav {background-color:#B0A695;border-radius: 1em;}
+nav a {color: #b569f7;}
+nav a:hover {background-color: #F1EAFF;}
+nav {padding: 10px; margin-bottom: 30px;}
+.motto{float: right;}
+.white {background-color: #bdbde2;border-radius: 1em; display: flex; margin: 20px; margin-bottom: 30px;}
+section {background-color: #bdbde2; border-radius: 1em; display: flex; padding: 20px;margin: 20px;}
+.form {flex: 2;margin-right: 25px;}
+.map {order: 2;}
+.row1 {flex: 1;}
+.row2 {flex: 2; padding: 15px;}
+td, th {border: 1px solid black}
+.skpage {display: flex; justify-content: space-around;}
+.icons {display: flex;flex: 3;justify-content: space-between;margin: 60px;}
+aside {background-color: #bdbde2; border-radius: 2em; padding: 15px;flex: 1;margin: 20px;}
+.skills {display: flex;margin: 20px;}
+.skimg {width: 40px;}
+.banner {max-width: 100%}
+.formmap {flex-wrap: wrap;}
+@media only screen and (min-width: 801px)
+{ }
+@media only screen and (max-width: 800px)
+{nav a {display: block;
+margin: 5px;}
+span {display: none;}}
